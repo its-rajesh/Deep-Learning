@@ -1,5 +1,5 @@
 # Deep-Learning
-This repo contains the codes written for the course CS671 Deep Learning
+This repo contains the codes & reports written for the assignments in the course CS671 Deep Learning & Applications
 
 ### Perceptron & Fully Connected Neural Network - FCNN (Classification & Regression)
 
@@ -27,3 +27,5 @@ This repo contains the codes written for the course CS671 Deep Learning
 3) One hidden layer autoencoder for classification task
 4) Three hidden layer autoencoder for classification task
 5) Denoising Autoencoder
+
+> Optimizers and Autoencoders Report [view]()
