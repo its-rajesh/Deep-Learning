@@ -11,3 +11,19 @@ This repo contains the codes written for the course CS671 Deep Learning
 6) Implementation of Fully Connected Neural Network (FCNN) with two hidden layer from scratch for regression tasks [view](https://github.com/Rajesh-Smartino/Deep-Learning/tree/main/FCNN%20Regression)
 
 > Perceptron & FCNN Report [view](https://github.com/Rajesh-Smartino/Deep-Learning/blob/main/Report.pdf)
+
+### Tasks using Handwritten digits (MNIST digit dataset) {Study of Various Optimizers}
+
+1) FCNN with 3 hidden layers using cross entropy loss by stochastic gradient descent (SGD) algorithm [view]()
+2) FCNN with 3 hidden layers using cross entropy loss by vanilla gradient descent algorithm [view]()
+3) FCNN with 3 hidden layers using cross entropy loss by SGD with momentum (NAG) [view]()
+4) FCNN with 3 hidden layers using cross entropy loss by RMSProp algorithm [view]()
+5) FCNN with 3 hidden layers using cross entropy loss by Adam optimizer [view]()
+
+### Autoencoders
+
+1) One hidden layer autoencoder for compression
+2) Three hidden layer autoencoder for compression
+3) One hidden layer autoencoder for classification task
+4) Three hidden layer autoencoder for classification task
+5) Denoising Autoencoder
