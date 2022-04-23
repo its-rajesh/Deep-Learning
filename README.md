@@ -28,8 +28,11 @@ This repo contains the codes & reports written for the assignments in the course
 4) Three hidden layer autoencoder for classification task [view](https://github.com/Rajesh-Smartino/Deep-Learning/blob/main/Autoencoder/SingleHiddenLayer.ipynb)
 5) Denoising Autoencoder [view](https://github.com/Rajesh-Smartino/Deep-Learning/blob/main/Autoencoder/DenoisngAutoencoder.ipynb)
 
-> Optimizers and Autoencoders Report [view]()
+> Optimizers and Autoencoders Report [view](https://github.com/Rajesh-Smartino/Deep-Learning/blob/main/Report2.pdf)
 
 ### Convolutional Neural Network - CNN
 
-1) 2 dimensional convolution (with zero padding & stride) from scratch
+1) 2 dimensional convolution (with zero padding & stride) from scratch [view]()
+2) 
+
+> Convolutional Neural Network Report [view]()
