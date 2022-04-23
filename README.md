@@ -22,10 +22,10 @@ This repo contains the codes & reports written for the assignments in the course
 
 ### Autoencoders
 
-1) One hidden layer autoencoder for compression [view]()
-2) Three hidden layer autoencoder for compression [view]()
-3) One hidden layer autoencoder for classification task [view]()
-4) Three hidden layer autoencoder for classification task [view]()
+1) One hidden layer autoencoder for compression [view](https://github.com/Rajesh-Smartino/Deep-Learning/blob/main/Autoencoder/SingleHiddenLayer.ipynb)
+2) Three hidden layer autoencoder for compression [view](https://github.com/Rajesh-Smartino/Deep-Learning/blob/main/Autoencoder/SingleHiddenLayer.ipynb)
+3) One hidden layer autoencoder for classification task [view](https://github.com/Rajesh-Smartino/Deep-Learning/blob/main/Autoencoder/SingleHiddenLayer.ipynb)
+4) Three hidden layer autoencoder for classification task [view](https://github.com/Rajesh-Smartino/Deep-Learning/blob/main/Autoencoder/SingleHiddenLayer.ipynb)
 5) Denoising Autoencoder [view]()
 
 > Optimizers and Autoencoders Report [view]()
