@@ -33,6 +33,6 @@ This repo contains the codes & reports written for the assignments in the course
 ### Convolutional Neural Network - CNN
 
 1) 2 dimensional convolution (with zero padding & stride) from scratch [view](https://github.com/Rajesh-Smartino/Deep-Learning/blob/main/CNN%20from%20Scratch/Convolution.ipynb)
-2) 
+2) Building Convolutional Layers
 
 > Convolutional Neural Network Report [view]()
