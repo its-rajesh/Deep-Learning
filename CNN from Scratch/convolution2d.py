@@ -66,20 +66,30 @@ class Convolution():
         feature_map = np.array(feature_map).reshape(Outm, Outn)
         return feature_map
 
+    def convwithDepth(self, inpt, filtr, stride=1, padding=0):
+        #print(inpt.shape, filtr.shape)
+        (D, Am, An), (fm, fn) = inpt.shape, filtr.shape
 
-'''
-####################################################################
-TO USE IT SEPERATELY, UNCOMMENT THE BELOW CODE AND RUN
-####################################################################
-'''
-'''
-obj = Convolution()
+        padded_inpt = []
+        for i in inpt:
+            padded_inpt.append(self.zero_padding(self, i, padding))
 
-# Give the input image
-inpt = np.array([[1, 1, 1, 1, 1], [1, 1, 1, 1, 1], [1, 1, 1, 1, 1], [1, 1, 1, 1, 1], [1, 1, 1, 1, 1]])
+        inpt = np.array(padded_inpt)
+        #print(inpt.shape)
+        d, m, n = inpt.shape
 
-# Give the filter
-filtr = np.array([[1, 2, 3], [4, 5, 6], [7, 8, 9]])
-feature_map = obj.convolve(inpt, filtr, stride = 2, padding = 1)
-print(feature_map)
-'''
+        flip_leftright = np.fliplr(filtr)
+        flip_updown = np.flipud(flip_leftright)
+        Filtr = flip_updown
+
+        Outm, Outn = int(((Am - fm + 2 * padding) / stride) + 1), int(((An - fn + 2 * padding) / stride) + 1)
+        # print(Outm, Outn)
+
+        feature_map = []
+        for i in range(0, m, stride):
+            for j in range(0, n, stride):
+                if inpt[:, i:i + fn, j:j + fm][0].shape == Filtr.shape:
+                    feature_map.append((Filtr * inpt[:, i:i + fn, j:j + fm]).sum())
+
+        feature_map = np.array(feature_map).reshape(Outm, Outn)
+        return feature_map
