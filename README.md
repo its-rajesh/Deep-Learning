@@ -35,7 +35,7 @@ This repo contains the codes & reports written for the assignments in the course
 1) 2 dimensional convolution (with zero padding & stride) from scratch [view](https://github.com/Rajesh-Smartino/Deep-Learning/blob/main/CNN%20from%20Scratch/Convolution.ipynb)
 2) Building Convolutional Layers [view](https://github.com/its-rajesh/Deep-Learning/blob/main/CNN%20from%20Scratch/ConvolutionalLayer.ipynb)
 3) Building Network and Backpropagation [view](https://github.com/its-rajesh/Deep-Learning/blob/main/CNN%20from%20Scratch/ForwardBackProp.ipynb)
-4) Using Builtin functions [view]()
+4) Using Builtin functions [view](https://github.com/its-rajesh/Deep-Learning/blob/main/CNN%20from%20Scratch/CNNKeras.ipynb)
 5) GradCAM - Visualization of the Influence of Input Pixels [view]()
 
 > Convolutional Neural Network Report [view]()
