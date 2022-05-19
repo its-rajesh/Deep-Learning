@@ -12,7 +12,7 @@ This repo contains the codes & reports written for the assignments in the course
 
 > Perceptron & FCNN Report [view](https://github.com/Rajesh-Smartino/Deep-Learning/blob/main/Report.pdf)
 
-### Tasks using Handwritten digits (MNIST digit dataset) {Study of Various Optimizers}
+### Study of Various Optimizers {Tasks using Handwritten digits (MNIST digit dataset)}
 
 1) FCNN with 3 hidden layers using cross entropy loss by stochastic gradient descent (SGD) algorithm [view](https://github.com/Rajesh-Smartino/Deep-Learning/blob/main/Optimizers/optimizers.ipynb)
 2) FCNN with 3 hidden layers using cross entropy loss by vanilla gradient descent algorithm [view](https://github.com/Rajesh-Smartino/Deep-Learning/blob/main/Optimizers/optimizers.ipynb)
@@ -39,4 +39,11 @@ This repo contains the codes & reports written for the assignments in the course
 5) GradCAM - Visualization of the Influence of Input Pixels [view](https://github.com/its-rajesh/Deep-Learning/blob/main/CNN%20from%20Scratch/GradCAM.ipynb)
 6) VGG19 Model [view](https://github.com/its-rajesh/Deep-Learning/blob/main/CNN%20from%20Scratch/VGG19.ipynb)
 
-> Convolutional Neural Network Report [view]()
+> Convolutional Neural Network Report [view](https://github.com/its-rajesh/Deep-Learning/blob/main/Report3.pdf)
+
+### Recurrent Neural Network - RNN
+
+
+### LSTM Long Short Term Memory
+
+> RNN and LSTM report
