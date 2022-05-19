@@ -36,6 +36,7 @@ This repo contains the codes & reports written for the assignments in the course
 2) Building Convolutional Layers [view](https://github.com/its-rajesh/Deep-Learning/blob/main/CNN%20from%20Scratch/ConvolutionalLayer.ipynb)
 3) Building Network and Backpropagation [view](https://github.com/its-rajesh/Deep-Learning/blob/main/CNN%20from%20Scratch/ForwardBackProp.ipynb)
 4) Using Builtin functions [view](https://github.com/its-rajesh/Deep-Learning/blob/main/CNN%20from%20Scratch/CNNKeras.ipynb)
-5) GradCAM - Visualization of the Influence of Input Pixels [view]()
+5) GradCAM - Visualization of the Influence of Input Pixels [view](https://github.com/its-rajesh/Deep-Learning/blob/main/CNN%20from%20Scratch/GradCAM.ipynb)
+6) VGG19 Model [view]()
 
 > Convolutional Neural Network Report [view]()
