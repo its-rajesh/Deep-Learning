@@ -1,4 +1,4 @@
-# Deep-Learning
+# Deep Learning & Applications
 This repo contains the codes & reports written for the assignments in the course CS671 Deep Learning & Applications
 
 ### Perceptron & Fully Connected Neural Network - FCNN (Classification & Regression)
