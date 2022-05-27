@@ -51,4 +51,4 @@ This repo contains the codes & reports written for the assignments in the course
 1. Preprocessing of data sets [view](https://github.com/its-rajesh/Deep-Learning/blob/main/LSTM/Preprocessing.ipynb)
 2. Implementation of LSTM using PyTorch [view](https://github.com/its-rajesh/Deep-Learning/blob/main/LSTM/LSTM.ipynb)
 
-> RNN and LSTM report [view]()
+> RNN and LSTM report [view](https://github.com/its-rajesh/Deep-Learning/blob/main/Report4.pdf)
