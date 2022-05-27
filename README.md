@@ -45,7 +45,7 @@ This repo contains the codes & reports written for the assignments in the course
 
 > Convolutional Neural Network Report [view](https://github.com/its-rajesh/Deep-Learning/blob/main/Report3.pdf)
 > Question Paper [open](https://github.com/its-rajesh/Deep-Learning/blob/main/Questions/CNN.pdf)
-> Dataset [download]()
+> Dataset [download](https://github.com/its-rajesh/Deep-Learning/blob/main/DataSets/CNN.zip)
 
 ### Recurrent Neural Network - RNN
 
