@@ -32,7 +32,7 @@ This repo contains the codes & reports written for the assignments in the course
 
 > Optimizers and Autoencoders Report [view](https://github.com/Rajesh-Smartino/Deep-Learning/blob/main/Report2.pdf)
 > Question Paper [open](https://github.com/its-rajesh/Deep-Learning/blob/main/Questions/Optimizers.pdf)
-> Dataset [download]()
+> Dataset [download](https://github.com/its-rajesh/Deep-Learning/blob/main/DataSets/Optimizers.zip)
 
 ### Convolutional Neural Network - CNN
 
