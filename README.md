@@ -10,8 +10,8 @@ This repo contains the codes, reports, data sets and question papers for the giv
 5) Implementation of Fully Connected Neural Network (FCNN) with one hidden layer from scratch for regression tasks [view](https://github.com/Rajesh-Smartino/Deep-Learning/tree/main/FCNN%20Regression)
 6) Implementation of Fully Connected Neural Network (FCNN) with two hidden layer from scratch for regression tasks [view](https://github.com/Rajesh-Smartino/Deep-Learning/tree/main/FCNN%20Regression)
 
-> Perceptron & FCNN Report [view](https://github.com/Rajesh-Smartino/Deep-Learning/blob/main/Report.pdf)
-> Question Paper [open](https://github.com/its-rajesh/Deep-Learning/blob/main/Questions/PerceptronFCNN.pdf)
+> Perceptron & FCNN Report [view](https://github.com/Rajesh-Smartino/Deep-Learning/blob/main/Report.pdf) • 
+> Question Paper [open](https://github.com/its-rajesh/Deep-Learning/blob/main/Questions/PerceptronFCNN.pdf)  • 
 > Dataset [download](https://github.com/its-rajesh/Deep-Learning/blob/main/DataSets/Perceptron%20%26%20FCNN.zip)
 
 ### Study of Various Optimizers {Tasks using Handwritten digits (MNIST digit dataset)}
@@ -30,8 +30,8 @@ This repo contains the codes, reports, data sets and question papers for the giv
 4) Three hidden layer autoencoder for classification task [view](https://github.com/Rajesh-Smartino/Deep-Learning/blob/main/Autoencoder/SingleHiddenLayer.ipynb)
 5) Denoising Autoencoder [view](https://github.com/Rajesh-Smartino/Deep-Learning/blob/main/Autoencoder/DenoisngAutoencoder.ipynb)
 
-> Optimizers and Autoencoders Report [view](https://github.com/Rajesh-Smartino/Deep-Learning/blob/main/Report2.pdf)
-> Question Paper [open](https://github.com/its-rajesh/Deep-Learning/blob/main/Questions/Optimizers.pdf)
+> Optimizers and Autoencoders Report [view](https://github.com/Rajesh-Smartino/Deep-Learning/blob/main/Report2.pdf) • 
+> Question Paper [open](https://github.com/its-rajesh/Deep-Learning/blob/main/Questions/Optimizers.pdf) • 
 > Dataset [download](https://github.com/its-rajesh/Deep-Learning/blob/main/DataSets/Optimizers.zip)
 
 ### Convolutional Neural Network - CNN
@@ -43,8 +43,8 @@ This repo contains the codes, reports, data sets and question papers for the giv
 5) GradCAM - Visualization of the Influence of Input Pixels [view](https://github.com/its-rajesh/Deep-Learning/blob/main/CNN%20from%20Scratch/GradCAM.ipynb)
 6) VGG19 Model [view](https://github.com/its-rajesh/Deep-Learning/blob/main/CNN%20from%20Scratch/VGG19.ipynb)
 
-> Convolutional Neural Network Report [view](https://github.com/its-rajesh/Deep-Learning/blob/main/Report3.pdf)
-> Question Paper [open](https://github.com/its-rajesh/Deep-Learning/blob/main/Questions/CNN.pdf)
+> Convolutional Neural Network Report [view](https://github.com/its-rajesh/Deep-Learning/blob/main/Report3.pdf) • 
+> Question Paper [open](https://github.com/its-rajesh/Deep-Learning/blob/main/Questions/CNN.pdf) • 
 > Dataset [download](https://github.com/its-rajesh/Deep-Learning/blob/main/DataSets/CNN.zip)
 
 ### Recurrent Neural Network - RNN
@@ -57,6 +57,6 @@ This repo contains the codes, reports, data sets and question papers for the giv
 1. Preprocessing of data sets [view](https://github.com/its-rajesh/Deep-Learning/blob/main/LSTM/Preprocessing.ipynb)
 2. Implementation of LSTM using PyTorch [view](https://github.com/its-rajesh/Deep-Learning/blob/main/LSTM/LSTM.ipynb)
 
-> RNN and LSTM report [view](https://github.com/its-rajesh/Deep-Learning/blob/main/Report4.pdf)
-> Question Paper [open](https://github.com/its-rajesh/Deep-Learning/blob/main/Questions/RNNLSTM.pdf)
+> RNN and LSTM report [view](https://github.com/its-rajesh/Deep-Learning/blob/main/Report4.pdf) • 
+> Question Paper [open](https://github.com/its-rajesh/Deep-Learning/blob/main/Questions/RNNLSTM.pdf) • 
 > Dataset [download](https://github.com/its-rajesh/Deep-Learning/blob/main/DataSets/RNN%20%26%20LSTM.zip)
