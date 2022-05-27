@@ -1,5 +1,5 @@
 # Deep Learning & Applications
-This repo contains the codes & reports written for the assignments in the course CS671 Deep Learning & Applications
+This repo contains the codes, reports, data sets and question papers for the given assignments in the course CS671 Deep Learning & Applications 2022 February-May Semester. [Syllabus]() [Moodle Link]()
 
 ### Perceptron & Fully Connected Neural Network - FCNN (Classification & Regression)
 
