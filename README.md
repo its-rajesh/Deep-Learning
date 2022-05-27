@@ -12,7 +12,7 @@ This repo contains the codes & reports written for the assignments in the course
 
 > Perceptron & FCNN Report [view](https://github.com/Rajesh-Smartino/Deep-Learning/blob/main/Report.pdf)
 > Question Paper [open](https://github.com/its-rajesh/Deep-Learning/blob/main/Questions/PerceptronFCNN.pdf)
-> Dataset [download]()
+> Dataset [download](https://github.com/its-rajesh/Deep-Learning/blob/main/DataSets/Perceptron%20%26%20FCNN.zip)
 
 ### Study of Various Optimizers {Tasks using Handwritten digits (MNIST digit dataset)}
 
