@@ -11,6 +11,8 @@ This repo contains the codes & reports written for the assignments in the course
 6) Implementation of Fully Connected Neural Network (FCNN) with two hidden layer from scratch for regression tasks [view](https://github.com/Rajesh-Smartino/Deep-Learning/tree/main/FCNN%20Regression)
 
 > Perceptron & FCNN Report [view](https://github.com/Rajesh-Smartino/Deep-Learning/blob/main/Report.pdf)
+> Question Paper [open]()
+> Dataset [download]()
 
 ### Study of Various Optimizers {Tasks using Handwritten digits (MNIST digit dataset)}
 
@@ -29,6 +31,8 @@ This repo contains the codes & reports written for the assignments in the course
 5) Denoising Autoencoder [view](https://github.com/Rajesh-Smartino/Deep-Learning/blob/main/Autoencoder/DenoisngAutoencoder.ipynb)
 
 > Optimizers and Autoencoders Report [view](https://github.com/Rajesh-Smartino/Deep-Learning/blob/main/Report2.pdf)
+> Question Paper [open]()
+> Dataset [download]()
 
 ### Convolutional Neural Network - CNN
 
@@ -40,6 +44,8 @@ This repo contains the codes & reports written for the assignments in the course
 6) VGG19 Model [view](https://github.com/its-rajesh/Deep-Learning/blob/main/CNN%20from%20Scratch/VGG19.ipynb)
 
 > Convolutional Neural Network Report [view](https://github.com/its-rajesh/Deep-Learning/blob/main/Report3.pdf)
+> Question Paper [open]()
+> Dataset [download]()
 
 ### Recurrent Neural Network - RNN
 
@@ -52,3 +58,5 @@ This repo contains the codes & reports written for the assignments in the course
 2. Implementation of LSTM using PyTorch [view](https://github.com/its-rajesh/Deep-Learning/blob/main/LSTM/LSTM.ipynb)
 
 > RNN and LSTM report [view](https://github.com/its-rajesh/Deep-Learning/blob/main/Report4.pdf)
+> Question Paper [open]()
+> Dataset [download]()
