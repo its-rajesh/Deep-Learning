@@ -1,7 +1,7 @@
 # Deep Learning & Applications
 This repo contains the codes, reports, data sets and question papers for the given assignments in the course CS671 Deep Learning & Applications 2022 February-May Semester. [Syllabus](https://github.com/its-rajesh/Deep-Learning/blob/main/Syllabus.pdf) • [Moodle](https://students.iitmandi.ac.in/moodle/course/view.php?id=2697)
 
-### Perceptron & Fully Connected Neural Network - FCNN (Classification & Regression)
+### Perceptron & Fully Connected Deep Neural Network - DNN (Classification & Regression)
 
 1) Implementation of Perceptron from scratch for classification tasks [view](https://github.com/Rajesh-Smartino/Deep-Learning/tree/main/Perceptron%20Regression)
 2) Implementation of Fully Connected Neural Network (FCNN) with one hidden layer from scratch for classification tasks [view](https://github.com/Rajesh-Smartino/Deep-Learning/tree/main/FCNN%20Classification)
