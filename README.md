@@ -1,5 +1,5 @@
 # Deep Learning & Applications
-This repo contains the codes, reports, data sets and question papers for the given assignments in the course CS671 Deep Learning & Applications 2022 February-May Semester. [Syllabus](https://github.com/its-rajesh/Deep-Learning/blob/main/Syllabus.pdf) • [Moodle](https://students.iitmandi.ac.in/moodle/course/view.php?id=2697)
+This repo contains the codes, reports, data sets and question papers for the given assignments in the course CS671 Deep Learning & Applications 2022 February-May Semester at Indian Institute of Technology, Mandi. [Syllabus](https://github.com/its-rajesh/Deep-Learning/blob/main/Syllabus.pdf) • [Moodle](https://students.iitmandi.ac.in/moodle/course/view.php?id=2697)
 
 ### Perceptron & Fully Connected Deep Neural Network - DNN (Classification & Regression)
 
