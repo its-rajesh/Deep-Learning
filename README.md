@@ -52,7 +52,7 @@ This repo contains the codes, reports, data sets and question papers for the giv
 1. Preprocessing of data sets [view](https://github.com/its-rajesh/Deep-Learning/blob/main/LSTM/Preprocessing.ipynb)
 2. Implementation of RNN using Keras and PyTorch (Both datasets) [view](https://github.com/its-rajesh/Deep-Learning/blob/main/RNN/RNNUpdated.ipynb)
 
-### LSTM Long Short Term Memory
+### Long Short Term Memory - LSTM 
 
 1. Preprocessing of data sets [view](https://github.com/its-rajesh/Deep-Learning/blob/main/LSTM/Preprocessing.ipynb)
 2. Implementation of LSTM using PyTorch [view](https://github.com/its-rajesh/Deep-Learning/blob/main/LSTM/LSTM.ipynb)
