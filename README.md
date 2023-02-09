@@ -3,7 +3,7 @@ This repo contains the codes, reports, datasets and question papers for the assi
 
 ### Perceptron & Fully Connected Deep Neural Network - DNN (Classification & Regression)
 
-1) Implementation of Perceptron from scratch for classification tasks [view](https://github.com/Rajesh-Smartino/Deep-Learning/tree/main/Perceptron%20Regression)
+1) Implementation of Perceptron from scratch for classification tasks [view](https://github.com/its-rajesh/Deep-Learning/tree/main/Perceptron%20Classification)
 2) Implementation of Fully Connected Neural Network (FCNN) with one hidden layer from scratch for classification tasks [view](https://github.com/Rajesh-Smartino/Deep-Learning/tree/main/FCNN%20Classification)
 3) Implementation of Fully Connected Neural Network (FCNN) with two hidden layer from scratch for classification tasks [view](https://github.com/Rajesh-Smartino/Deep-Learning/tree/main/FCNN%20Classification)
 4) Implementation of Perceptron from scratch for regression tasks [view](https://github.com/Rajesh-Smartino/Deep-Learning/tree/main/Perceptron%20Regression)
