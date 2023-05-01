@@ -64,6 +64,6 @@ This repo contains the codes, reports, datasets and question papers for the assi
 
 # Tutorials [Jan-May 2023: TA]
 
-1. [Tutorial I](): Introduction to keras, DNNs & Autoencoders in keras
-2. [Tutorial II](): CNNs: Plotting Feature maps, kernels, Transfer learning, Visualisation of patches maximally activate a neuron [see]()
+1. [Tutorial I](https://github.com/its-rajesh/Deep-Learning/blob/main/Tutorial1.ipynb): Introduction to keras, DNNs & Autoencoders in keras
+2. [Tutorial II](https://github.com/its-rajesh/Deep-Learning/blob/main/Tutorial II.ipynb): CNNs: Plotting Feature maps, kernels, Transfer learning, Visualisation of patches maximally activate a neuron [see]()
 3. [Tutorial III](): RNNs & LSTMs: Passing variable length inputs, more
