@@ -61,3 +61,9 @@ This repo contains the codes, reports, datasets and question papers for the assi
 > RNN and LSTM report [view](https://github.com/its-rajesh/Deep-Learning/blob/main/Report4.pdf) • 
 > Question Paper [open](https://github.com/its-rajesh/Deep-Learning/blob/main/Questions/RNNLSTM.pdf) • 
 > Dataset [download](https://github.com/its-rajesh/Deep-Learning/blob/main/DataSets/RNN%20%26%20LSTM.zip)
+
+# Tutorials [Jan-May 2023: TA]
+
+1. [Tutorial I](): Introduction to keras, DNNs & Autoencoders in keras
+2. [Tutorial II](): CNNs: Plotting Feature maps, kernels, Transfer learning, Visualisation of patches maximally activate a neuron [see]()
+3. [Tutorial III](): RNNs & LSTMs: Passing variable length inputs, more
