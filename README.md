@@ -42,6 +42,7 @@ This repo contains the codes, reports, datasets and question papers for the assi
 4) Using Builtin functions [view](https://github.com/its-rajesh/Deep-Learning/blob/main/CNN%20from%20Scratch/CNNKeras.ipynb)
 5) GradCAM - Visualization of the Influence of Input Pixels [view](https://github.com/its-rajesh/Deep-Learning/blob/main/CNN%20from%20Scratch/GradCAM.ipynb)
 6) VGG19 Model [view](https://github.com/its-rajesh/Deep-Learning/blob/main/CNN%20from%20Scratch/VGG19.ipynb)
+7) Visualizing the patches that maximally activate a neuron (V6616) [view](https://github.com/its-rajesh/Deep-Learning/tree/main/CNN%20from%20Scratch)
 
 > Convolutional Neural Network Report [view](https://github.com/its-rajesh/Deep-Learning/blob/main/Report3.pdf) • 
 > Question Paper [open](https://github.com/its-rajesh/Deep-Learning/blob/main/Questions/CNN.pdf) • 
