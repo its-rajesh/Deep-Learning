@@ -66,4 +66,4 @@ This repo contains the codes, reports, datasets and question papers for the assi
 
 1. [Tutorial I](https://github.com/its-rajesh/Deep-Learning/blob/main/Tutorial1.ipynb): Introduction to keras, DNNs & Autoencoders in keras
 2. [Tutorial II](https://github.com/its-rajesh/Deep-Learning/blob/main/Tutorial%20II.ipynb): CNNs: Plotting Feature maps, kernels, Transfer learning, Visualisation of patches maximally activate a neuron [see](https://github.com/its-rajesh/Deep-Learning/blob/main/CNN%20from%20Scratch/VisualizingPatches.ipynb)
-3. [Tutorial III](): RNNs & LSTMs: Passing variable length inputs, more
+3. [Tutorial III](https://github.com/its-rajesh/Deep-Learning/blob/main/Tutorial_III.ipynb): RNNs & LSTMs: Passing variable length inputs, more
